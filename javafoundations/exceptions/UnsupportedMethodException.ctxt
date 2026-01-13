@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UnsupportedMethodException
+comment1.params=message
+comment1.target=UnsupportedMethodException(java.lang.String)
+comment1.text=\n\ Constructor.\ Creates\ an\ exception\ with\ the\ provided\ message\n\ @param\ The\ message\ to\ be\ presented\ when\ the\ exception\ is\ thrown\n
+numComments=2

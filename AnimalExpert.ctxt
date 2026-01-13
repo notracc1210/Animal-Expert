@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AnimalExpert
+comment0.text=\n\ \u5728\u8FD9\u91CC\u7ED9\u51FA\u5BF9\u7C7B\ AnimalExpert\ \u7684\u63CF\u8FF0\u3002\n\ \n\ @author\ Tracy\n\ @version\ 2025.11.29\n
+comment1.params=
+comment1.target=AnimalExpert()
+comment1.text=\n\ AnimalExpert\ Constructor\n\n
+comment2.params=
+comment2.target=void\ guessMyAnimal()
+comment2.text=\n\ Method\ guessMyAnimal\n\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

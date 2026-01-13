@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ArrayIterator
+comment0.text=\n\ Represents\ an\ iterator\ over\ the\ elements\ of\ a\ collection.\n\ \n
+comment1.params=
+comment1.target=ArrayIterator()
+comment1.text=\n\ Sets\ up\ an\ empty\ iterator.\n\ \n
+comment2.params=item
+comment2.target=void\ add(java.lang.Object)
+comment2.text=\n\ Adds\ the\ specified\ item\ to\ this\ iterator.\n\ \n\ @param\ the\ item\ to\ be\ added\ to\ the\ iterator\n
+comment3.params=
+comment3.target=boolean\ hasNext()
+comment3.text=\n\ Returns\ true\ if\ the\ iterator\ has\ at\ least\ one\ more\ element\ to\n\ deliver.\n\ \n\ @return\ true\ if\ there\ are\ more\ elements\ in\ this\ iterator,\n\ false\ otherwise\n
+comment4.params=
+comment4.target=java.lang.Object\ next()
+comment4.text=\n\ Returns\ the\ next\ element\ in\ the\ iteration.\n\ If\ there\ are\ no\ more\ elements\ in\ this\ iteration,\n\ a\ NoSuchElementException\ is\ thrown.\n\ \n\ @return\ the\ next\ element\ in\ the\ iteration.\n\ \n\ @throws\ NoSuchElementException\ if\ there\ are\ no\ more\ \n\ elements\ in\ this\ iteration\n
+comment5.params=
+comment5.target=void\ remove()
+comment5.text=\n\ The\ remove\ operation\ is\ not\ supported\ in\ this\ collection.\n\ \n\ @throws\ UnsupportedOperationException\ always\!\n
+comment6.params=
+comment6.target=void\ expandCapacity()
+comment6.text=\n\ Expands\ the\ capacity\ of\ the\ underlying\ array\n\ \n
+numComments=7
