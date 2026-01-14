@@ -13,7 +13,7 @@ This is a lab project for CS 230X.
 
 1. Clone this repo.
 2. Run `javac AnimalExpert.java` to compile the code.
-3. Run  `java AnimalExpert` to run the code.
+3. Run `java AnimalExpert` to run the code.
 
 ## Requirements
 
